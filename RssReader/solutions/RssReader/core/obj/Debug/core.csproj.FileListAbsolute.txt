@@ -1,0 +1,5 @@
+C:\Users\Vincent\Dropbox\projet\RssReader\solutions\RssReader\core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vincent\Dropbox\projet\RssReader\bin\Core.dll
+C:\Users\Vincent\Dropbox\projet\RssReader\bin\Core.pdb
+C:\Users\Vincent\Dropbox\projet\RssReader\solutions\RssReader\core\obj\Debug\Core.dll
+C:\Users\Vincent\Dropbox\projet\RssReader\solutions\RssReader\core\obj\Debug\Core.pdb

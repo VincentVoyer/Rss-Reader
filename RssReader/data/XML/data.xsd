@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema
+  targetNamespace="namespace"
+  elementFormDefault="qualified"
+  attributeFormDefault="qualified"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:data ="namespace"
+>
+
+  <xs:complexType name="rssDataType">
+    <xs:sequence minOccurs ="0" maxOccurs="unbounded">
+      <xs:element name="flux" type="data:fluxType"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="fluxType">
+    <xs:sequence>
+      <xs:element name="nom" type="xs:string"/>
+      <xs:element name="description" type="xs:string"/>
+      <xs:element name="lien" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:element name="DataRss" type="data:rssDataType"/>
+</xs:schema>

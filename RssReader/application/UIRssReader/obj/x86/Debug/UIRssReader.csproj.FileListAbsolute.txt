@@ -1,0 +1,17 @@
+C:\Users\Vincent\Dropbox\projet\RssReader\bin\UIRssReader.exe
+C:\Users\Vincent\Dropbox\projet\RssReader\bin\UIRssReader.pdb
+C:\Users\Vincent\Dropbox\projet\RssReader\application\UIRssReader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vincent\Dropbox\projet\RssReader\application\UIRssReader\obj\x86\Debug\MainWindow.baml
+C:\Users\Vincent\Dropbox\projet\RssReader\application\UIRssReader\obj\x86\Debug\UCArticle.baml
+C:\Users\Vincent\Dropbox\projet\RssReader\application\UIRssReader\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Vincent\Dropbox\projet\RssReader\application\UIRssReader\obj\x86\Debug\UCArticle.g.cs
+C:\Users\Vincent\Dropbox\projet\RssReader\application\UIRssReader\obj\x86\Debug\App.g.cs
+C:\Users\Vincent\Dropbox\projet\RssReader\application\UIRssReader\obj\x86\Debug\UIRssReader_MarkupCompile.cache
+C:\Users\Vincent\Dropbox\projet\RssReader\application\UIRssReader\obj\x86\Debug\UIRssReader.g.resources
+C:\Users\Vincent\Dropbox\projet\RssReader\application\UIRssReader\obj\x86\Debug\UIRssReader.Properties.Resources.resources
+C:\Users\Vincent\Dropbox\projet\RssReader\application\UIRssReader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Vincent\Dropbox\projet\RssReader\application\UIRssReader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Vincent\Dropbox\projet\RssReader\application\UIRssReader\obj\x86\Debug\UIRssReader.exe
+C:\Users\Vincent\Dropbox\projet\RssReader\application\UIRssReader\obj\x86\Debug\UIRssReader.pdb
+C:\Users\Vincent\Dropbox\projet\RssReader\application\UIRssReader\obj\x86\Debug\AddFlow.baml
+C:\Users\Vincent\Dropbox\projet\RssReader\application\UIRssReader\obj\x86\Debug\AddFlow.g.cs

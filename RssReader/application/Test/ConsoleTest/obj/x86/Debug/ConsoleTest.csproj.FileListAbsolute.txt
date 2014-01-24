@@ -1,0 +1,5 @@
+C:\Users\Vincent\Dropbox\projet\RssReader\application\Test\ConsoleTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vincent\Dropbox\projet\RssReader\bin\ConsoleTest.exe
+C:\Users\Vincent\Dropbox\projet\RssReader\bin\ConsoleTest.pdb
+C:\Users\Vincent\Dropbox\projet\RssReader\application\Test\ConsoleTest\obj\x86\Debug\ConsoleTest.exe
+C:\Users\Vincent\Dropbox\projet\RssReader\application\Test\ConsoleTest\obj\x86\Debug\ConsoleTest.pdb
